@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asif Newaz</h1>
+<h1 align="center">Hi 👋, I'm Mazba Uddin</h1>
 
 - 🔭 I’m currently working on iOS project
 
