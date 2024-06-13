@@ -8,9 +8,6 @@
 
 - ⚡ Fun fact **I love to travel.**
 
-<a href="https://www.linkedin.com/in/mazba-uddin-1155b1b3" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mazba Uddin" height="22" width="22" /></a>
-![](https://komarev.com/ghpvc/?username=mazba07&color=138D75&style=flat+square&label=Total+views)
-
 
 ### Programming Languages and Frameworks
 <p align="left">
@@ -51,3 +48,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazba07&" alt="Mazba Uddin"/></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazba07&theme=tokyonight) 
+
+
+<a href="https://www.linkedin.com/in/mazba-uddin-1155b1b3" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mazba Uddin" height="22" width="22" /></a>
+![](https://komarev.com/ghpvc/?username=mazba07&color=138D75&style=flat+square&label=Total+views)
