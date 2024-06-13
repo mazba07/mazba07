@@ -31,13 +31,13 @@
 
 ### Database
 <p>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="php" width="22" height="22"/> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="php" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="php" width="53" height="32"/> 
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="php" width="52" height="32"/> 
 </p>
 
 ### Online payment gateway
 <p>
-  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="php" width="22" height="22"/> 
+  <img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="php" width="52" height="32"/> 
 </p>
 
 
@@ -46,7 +46,7 @@
 
 
 ### Statistics
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifnewaz&theme=dark&hide_langs_below=1" />-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazba07&theme=dark&hide_langs_below=1" />
 <img src="https://github-readme-stats.vercel.app/api?username=mazba07&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazba07&" alt="Mazba Uddin"/></p>
