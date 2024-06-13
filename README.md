@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently improving my Algorithm & Data Structure skills
 
-- 📫 How to reach me: [Email](mail.mazba09@gmail.com)
+- 📫 How to reach me: <a href="mailto:mazba09@gmail.com"> mazba09@gmail.com</a>
 
 - ⚡ Fun fact **I love to travel.**
 
