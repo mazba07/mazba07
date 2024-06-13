@@ -19,7 +19,7 @@
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="22" height="22"/> 
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS" width="22" height="22"/> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" width="22" height="22"/> 
