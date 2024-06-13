@@ -51,4 +51,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazba07&" alt="Mazba Uddin"/></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asifnewaz&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazba07&theme=tokyonight) 
