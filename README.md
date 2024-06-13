@@ -16,7 +16,7 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="32" height="32"/> 
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="32" height="32"/> 
-<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="42" height="28" bgColor="#6B6B6B" /> 
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="42" height="28"/> 
 <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="php" width="52" height="32"/> 
 <img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="php" width="22" height="22"/> 
 
