@@ -15,14 +15,19 @@
 ### Languages and Tools:
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node.js" width="22" height="22"/> 
 <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="22" height="22"/> 
-  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" alt="iOS" width="22" height="22"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp" width="22" height="22"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" width="22" height="22"/> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/>  
-
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/socketio/socketio-ar21.svg" alt="php" width="22" height="22"/> 
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="php" width="22" height="22"/> 
 </p>
 
 
