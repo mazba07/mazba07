@@ -42,7 +42,7 @@
 
 
 <!-- **Stats :**  Showing a github Ranking in BD  -->
-[![Asif's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=mazba07&country_code=bangladesh&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
+<!-- [![Mazba's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=mazba07&country_code=bangladesh&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking) -->
 
 
 ### Statistics
