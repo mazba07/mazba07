@@ -8,9 +8,6 @@
 
 - ⚡ Fun fact **I love to travel.**
 
-### Connect with me:
-<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/measifnewaz?label=measifnewaz&logo=twitter&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Asifnewaz?logo=GitHub&style=for-the-badge) -->
 <a href="https://www.linkedin.com/in/mazba-uddin-1155b1b3" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mazba Uddin" height="22" width="22" /></a>
 ![](https://komarev.com/ghpvc/?username=mazba07&color=138D75&style=flat+square&label=Total+views)
 
