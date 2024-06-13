@@ -42,11 +42,10 @@
 
 
 <!-- **Stats :**  Showing a github Ranking in BD  -->
-<!-- [![Asif's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Asifnewaz&country_code=bangladesh&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking) -->
+[![Asif's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Asifnewaz&country_code=bangladesh&theme=dark)](https://github.com/Muhammadsher/github-readme-ranking)
 
 
 ### Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazba07&theme=dark&hide_langs_below=1" />
 <img src="https://github-readme-stats.vercel.app/api?username=mazba07&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazba07&" alt="Mazba Uddin"/></p>
